@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570312617791",
+    "firebase_url": "https://pappi-otc-a6ffb.firebaseio.com",
+    "project_id": "pappi-otc-a6ffb",
+    "storage_bucket": "pappi-otc-a6ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570312617791:android:bdfebe05a1df8d5cefad8a",
+        "android_client_info": {
+          "package_name": "com.pappiotc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570312617791-eoabmdun854o7m65h775587aeu2f6c9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppLOvYpzjQEjsScJnUrC2K5yFRqMU12U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570312617791-eoabmdun854o7m65h775587aeu2f6c9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PAPPI OTC</string>
+    <string name="login_app_name">PAPPI OTC</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="err_msg_username">Enter your username</string>
+    <string name="err_msg_password">Between 4 and 20 alphanumeric characters</string>
+    <string name="btn_forgot_password">Forgot Password?</string>
+
+    <string name="log_view">Log view</string>
+    <string name="home">Home</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_details">To reset your password, enter your email address and follow the steps below</string>
+    <string name="email">Email</string>
+    <string name="send">Send</string>
+    <string name="date">Date:</string>
+    <string name="type">Type:</string>
+    <string name="client">Client:</string>
+    <string name="note">Note:</string>
+    <string name="check_in">Check in</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="error_title"> Server Error </string>
+    <string name="no_connection_error_msg"> Could not complete your request due to network connectivity problem. Please try again later.</string>
+    <string name="crash_toast_text">App crashed! But a report has been sent to my developer to help fix the issue !</string>
+    <string name="permissions_not_granted_state">Permissions not granted</string>
+    <string name="permission_state_rationale">Need to grant Phone state permission and GPS permissions? </string>
+
+    <string name="loc_settings_error">Location Setting Error</string>
+    <string name="loc_settings_refuse_error">Attention: GPS Coordinates will not be sent to the server without adjusting the location settings</string>
+    <string name="conn_failed"> Connection Failed </string>
+    <string name="please_connect">Please enable your Internet in order to be able to send your location to the server</string>
+    <string name="enable_location_services">Please enable your gps location services in order to be able to send your location to the server</string>
+    <string name="data_saved">Data is saved successfully</string>
+    <string name="data_error">A problem happened while saving the data. Please try again later.</string>
+    <string name="data_error_checkin">A problem happened while saving the data. Please enable your Internet in order to be able to send your location to the server.</string>
+
+
+</resources>
