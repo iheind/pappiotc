@@ -14,7 +14,7 @@ import com.pappiotc.R;
 import com.pappiotc.controller.SalesTrackerController;
 
 public class HttpUtils {
-    private static final String BASE_URL = "http://pappi.pacekap.co.id/api/";
+    private static final String BASE_URL = "https://pappi.puspapharma.com/puspa/web/api/";
     private static AsyncHttpClient client = new AsyncHttpClient();
     private static SyncHttpClient syncClient = new SyncHttpClient();
 
